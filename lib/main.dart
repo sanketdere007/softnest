@@ -41,7 +41,7 @@ class SoftnestWebsite extends StatelessWidget {
       routerConfig: _router,
       debugShowCheckedModeBanner: false,
       // showSemanticsDebugger: true,
-      title: 'Softnest Technologies Pvt Ltd',
+      title: 'Softnest Technologies Private Limited',
       theme: ThemeData(primarySwatch: Colors.indigo),
     );
   }
